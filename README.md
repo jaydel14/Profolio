@@ -1,1 +1,1 @@
-This repository is here I keep all my side projecs that show my different coding skills
+This repository is here for me to keep all my side projecs that show my different coding skills
